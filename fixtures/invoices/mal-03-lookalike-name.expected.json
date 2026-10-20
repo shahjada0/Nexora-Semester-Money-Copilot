@@ -1,0 +1,17 @@
+{
+  "file": "mal-03-lookalike-name.txt",
+  "malicious": true,
+  "attack": "lookalike-payee",
+  "description": "Look-alike payee name (\"Northbrldge\") with its own bank account.",
+  "expected": {
+    "payeeName": "University of Northbrldge",
+    "sortCode": "99-31-07",
+    "accountNumber": "52114780",
+    "iban": null,
+    "amount": 6300,
+    "currency": "GBP",
+    "dueDate": "2026-11-30",
+    "studentId": "NB2026-48213",
+    "invoiceNumber": "UNB-INV-2026-10457"
+  }
+}

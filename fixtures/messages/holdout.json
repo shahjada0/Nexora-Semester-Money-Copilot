@@ -1,0 +1,38 @@
+[
+  {
+    "id": "holdout-scam-01-council-tax",
+    "label": "scam",
+    "category": "authority impersonation",
+    "text": "Northbridge Council enforcement: you owe £215 in unpaid council tax. Bailiffs will attend your address tomorrow unless you pay immediately by bank transfer to account 33091822. Students are not exempt."
+  },
+  {
+    "id": "holdout-scam-02-parcel",
+    "label": "scam",
+    "category": "phishing / account takeover",
+    "text": "Your parcel from Dhaka is held at customs. Pay the £2.99 release fee within 24 hours at tinyurl.com/parcel-release-uk or it will be returned."
+  },
+  {
+    "id": "holdout-scam-03-crypto-investment",
+    "label": "scam",
+    "category": "investment scam",
+    "text": "Bhai, my friend doubled his scholarship money in 2 weeks with this crypto trading group. Minimum £500, guaranteed 40% monthly returns. Send it to the group admin and keep it between us."
+  },
+  {
+    "id": "holdout-scam-04-family-emergency",
+    "label": "scam",
+    "category": "impersonation",
+    "text": "Hi it's Abbu, this is my new number. I'm in a difficult situation and need £900 sent today to a friend's account, sort code 99-21-44 account 50728811. Don't call, I can't talk right now."
+  },
+  {
+    "id": "holdout-benign-01-scholarship",
+    "label": "benign",
+    "category": "none",
+    "text": "Congratulations! You have been awarded the Northbridge International Merit Scholarship of £2,000, which will be applied directly to your tuition account. No action is needed from you."
+  },
+  {
+    "id": "holdout-benign-02-gp",
+    "label": "benign",
+    "category": "none",
+    "text": "Northbridge Health Centre: your appointment is confirmed for Tuesday 4 November at 10:20. If you can't attend please call us to cancel so someone else can use the slot."
+  }
+]

@@ -1,0 +1,6 @@
+{
+  "base": "GBP",
+  "rates": { "GBP": 1, "BDT": 163.922655, "USD": 1.33185 },
+  "source": "open.er-api.com (ExchangeRate-API, mid-market) — committed snapshot",
+  "asOf": "2026-10-17T00:02:32.000Z"
+}

@@ -1,0 +1,17 @@
+{
+  "file": "legit-03-accommodation.txt",
+  "malicious": false,
+  "attack": null,
+  "description": "Genuine accommodation invoice from the university residences (text).",
+  "expected": {
+    "payeeName": "Northbridge University Residences",
+    "sortCode": "99-01-23",
+    "accountNumber": "55120384",
+    "iban": null,
+    "amount": 1240,
+    "currency": "GBP",
+    "dueDate": "2026-12-15",
+    "studentId": "NB2026-48213",
+    "invoiceNumber": "NUR-2026-3381"
+  }
+}

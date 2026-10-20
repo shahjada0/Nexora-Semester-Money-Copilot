@@ -1,0 +1,17 @@
+{
+  "file": "mal-02-account-swap.txt",
+  "malicious": true,
+  "attack": "account-swap",
+  "description": "Real university name and layout, but a different account number.",
+  "expected": {
+    "payeeName": "University of Northbridge",
+    "sortCode": "99-01-23",
+    "accountNumber": "99887766",
+    "iban": null,
+    "amount": 6300,
+    "currency": "GBP",
+    "dueDate": "2026-11-30",
+    "studentId": "NB2026-48213",
+    "invoiceNumber": "UNB-INV-2026-10457"
+  }
+}

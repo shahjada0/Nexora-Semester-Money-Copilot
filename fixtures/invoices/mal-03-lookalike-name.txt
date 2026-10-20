@@ -1,0 +1,16 @@
+UNIVERSITY OF NORTHBRLDGE
+Student Finance Office · SANDBOX DOCUMENT
+
+TUITION FEE INVOICE
+Invoice number: UNB-INV-2026-10457
+Student name: Nusrat Rahman
+Student ID: NB2026-48213
+Programme: MSc Data Science (full-time, international)
+Description: Tuition fee 2026/27, instalment 2 of 3
+Amount due: £6,300.00
+Due date: 30 November 2026
+
+PAYMENT DETAILS
+Payee name: University of Northbrldge
+Sort code: 99-31-07
+Account number: 52114780

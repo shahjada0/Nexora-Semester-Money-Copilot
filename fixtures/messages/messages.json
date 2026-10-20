@@ -1,0 +1,110 @@
+[
+  {
+    "id": "scam-01-visa-fee",
+    "label": "scam",
+    "category": "visa / immigration fee scam",
+    "text": "URGENT from the UK Visa Office: your student visa will be cancelled within 2 hours because of an unpaid compliance fee. Pay £450 now to Visa Compliance Services Ltd, sort code 99-66-01, account number 70442190. Do not tell your university or you may be deported."
+  },
+  {
+    "id": "scam-02-visa-fee-sms",
+    "label": "scam",
+    "category": "visa / immigration fee scam",
+    "text": "Immigration Compliance Unit: A problem was found with your BRP/eVisa record. To avoid removal from the UK pay the £320 verification fee today at bit.ly/evisa-fix2026. Reply STOP to opt out."
+  },
+  {
+    "id": "scam-03-police-call",
+    "label": "scam",
+    "category": "authority impersonation",
+    "text": "Call notes: A man said he was Detective Inspector Shaw from the Metropolitan Police. He said my bank account is linked to money laundering and there is a warrant for my arrest. He told me to stay on the line and move all my money to a 'safe account' (account name: Secure Holding Account, sort code 99-70-12, account 88214406) and not to tell my family."
+  },
+  {
+    "id": "scam-04-embassy-call",
+    "label": "scam",
+    "category": "authority impersonation",
+    "text": "Hello, this is the High Commission visa section. Your parents' remittance was flagged by customs. A clearance fee of £780 must be paid by 5pm today or criminal proceedings will start. Payment by gift cards or bitcoin only."
+  },
+  {
+    "id": "scam-05-mule-job",
+    "label": "scam",
+    "category": "money mule job",
+    "text": "Hi! Flexible job for students, no experience needed. Earn £600 a week as a payment processing assistant: you receive payments into your account from our clients and transfer it on to our partners. You keep 10% of everything. Interested? WhatsApp me."
+  },
+  {
+    "id": "scam-06-mule-instagram",
+    "label": "scam",
+    "category": "money mule job",
+    "text": "Easy money!! I just need to use your account for a few days to receive money from my business abroad, it's totally legal. Send me your card details and online banking login and I'll pay you £300."
+  },
+  {
+    "id": "scam-07-tuition-agent",
+    "label": "scam",
+    "category": "fake tuition agent",
+    "text": "Dear Nusrat, we are an official education agent for Northbridge. Pay your remaining tuition through us and get a 15% discount. Send £5,355 to our agency account: Global Edu Partners Ltd, sort code 99-52-10, account number 40917733 before Friday to lock the discount."
+  },
+  {
+    "id": "scam-08-tuition-agent-crypto",
+    "label": "scam",
+    "category": "fake tuition agent",
+    "text": "Bangladeshi students: cheaper tuition payment! Our admissions consultant can pay your university fees at a special rate, save 20% compared to bank transfer. Pay us in USDT and we settle with the university within 24 hours."
+  },
+  {
+    "id": "scam-09-bank-otp",
+    "label": "scam",
+    "category": "phishing / account takeover",
+    "text": "Sandbox Bank UK Fraud Team: we have stopped a suspicious payment of £1,250 from your account. To cancel it, read back the one-time code we just sent you. Act now or the payment will go through."
+  },
+  {
+    "id": "scam-10-rental-deposit",
+    "label": "scam",
+    "category": "rental scam",
+    "text": "The room is still available for £550/month. I am abroad for work so viewing is not possible, but if you pay the £1,100 deposit today I will post you the keys. Account name: J Miller, account number 21567890."
+  },
+  {
+    "id": "benign-01-university-reminder",
+    "label": "benign",
+    "category": "none",
+    "text": "Dear Nusrat, this is a reminder that your second tuition instalment of £6,300 is due on 30 November 2026. You can view your invoice and pay through the Student Finance section of the student portal. If you have questions, reply to this email or visit the Student Finance Office. Kind regards, Student Finance, University of Northbridge."
+  },
+  {
+    "id": "benign-02-flatmate-bills",
+    "label": "benign",
+    "category": "none",
+    "text": "Hey Nusrat, the electricity bill came in at £87.60 so your share is £29.20. No rush, just send it whenever you get a chance this week. Tom"
+  },
+  {
+    "id": "benign-03-parent",
+    "label": "benign",
+    "category": "none",
+    "text": "Ammu here. Abbu went to the bank today about the student file. They asked for your offer letter and the latest invoice again. Can you email them tonight? Eat properly and call us on Sunday."
+  },
+  {
+    "id": "benign-04-students-union",
+    "label": "benign",
+    "category": "none",
+    "text": "Northbridge Students' Union: tickets for the International Food Night on 7 November are now on sale, £5 for members. Grab yours at the SU shop or on the SU website."
+  },
+  {
+    "id": "benign-05-landlord-rent",
+    "label": "benign",
+    "category": "none",
+    "text": "Hi Nusrat, just a friendly reminder from Harbour Lettings that November rent of £700 is due on the 1st. Payment details are unchanged from your tenancy agreement (sort code 99-04-56). Thanks!"
+  },
+  {
+    "id": "benign-06-library",
+    "label": "benign",
+    "category": "none",
+    "text": "Library notice: the book 'Pattern Recognition and Machine Learning' is 3 days overdue. A fine of £1.50 has been added to your library account. Please return or renew it online."
+  },
+  {
+    "id": "benign-07-bank-statement",
+    "label": "benign",
+    "category": "none",
+    "text": "Sandbox Bank UK: your October statement is ready to view in the app. We will never ask you for your PIN or full password by text or phone."
+  },
+  {
+    "id": "benign-08-part-time-job",
+    "label": "benign",
+    "category": "none",
+    "text": "Thanks for applying to the University Library student assistant role (10 hours per week, term time). Interviews are on 12 November in the Careers Centre. Please bring your passport and visa so we can check your right to work."
+  }
+]

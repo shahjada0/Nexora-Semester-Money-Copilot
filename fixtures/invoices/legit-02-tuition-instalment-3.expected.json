@@ -1,0 +1,17 @@
+{
+  "file": "legit-02-tuition-instalment-3.txt",
+  "malicious": false,
+  "attack": null,
+  "description": "Genuine tuition invoice, instalment 3 of 3, IBAN for international payers (text).",
+  "expected": {
+    "payeeName": "University of Northbridge",
+    "sortCode": "99-01-23",
+    "accountNumber": "41873960",
+    "iban": "GB00SAND99012341873960",
+    "amount": 6300,
+    "currency": "GBP",
+    "dueDate": "2027-02-26",
+    "studentId": "NB2026-48213",
+    "invoiceNumber": "UNB-INV-2027-00212"
+  }
+}

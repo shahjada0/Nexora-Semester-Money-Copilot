@@ -1,0 +1,18 @@
+UNIVERSITY OF NORTHBRIDGE
+Student Finance Office · Northbridge NB1 4UN · finance@northbridge.example
+SANDBOX DOCUMENT — fictional institution for a hackathon demo
+
+Invoice no: UNB-INV-2027-00212
+Student ID: NB2026-48213
+Student: Nusrat Rahman — MSc Data Science
+Item: Tuition fee 2026/27, instalment 3 of 3
+Total due: GBP 6,300.00
+Payment due date: 26/02/2027
+
+Bank transfer (UK or international)
+Account name: University of Northbridge
+Sort code: 99-01-23
+Account number: 41873960
+IBAN: GB00 SAND 9901 2341 8739 60
+
+Use your student ID as the payment reference.
