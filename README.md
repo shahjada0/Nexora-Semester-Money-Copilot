@@ -64,44 +64,12 @@ the same gate. Add a Google AI Studio (Gemini API) key, or a Groq key, to let th
 | `FX_OFFLINE` | `0` | `1` = never call the live FX API; use `data/fx-snapshot.json`. |
 | `NEXORA_DB` | `data/nexora.db` | SQLite path (`/tmp/nexora.db` on Vercel). |
 
-## Deploy to Render (free tier)
 
-See [`render-deplot/`](render-deplot/README.md): a ready Blueprint (`render.yaml`), the environment variables, and a step-by-step guide.
-
-## Tests, evals and evidence
-
-```bash
-npm test            # Vitest: gate, audit chain, extraction, payments, attacks, agent (incl. simulated compromised LLM)
-npm run eval        # attack suite + accuracy suite → evidence/results.json + evidence/results.md (+ refreshes doc tables)
-npm run evidence    # clean seed → eval + full scripted demo run (real clock) → evidence/audit-log.jsonl + verify-output.txt
-npm run verify:audit -- evidence/audit-log.jsonl   # independent hash-chain check of any exported log
-```
-
-`npm run eval` exits non-zero if any attack succeeds or any action is missing from the audit log.
-
-## Deploy to Vercel
-
-```bash
-npx vercel --prod
-```
 
 1. Import the repo in Vercel (framework preset: Next.js); no build settings to change.
 2. Set `APP_SECRET` (required) and, optionally, `GROQ_API_KEY` / `GROQ_MODEL` in *Project → Settings → Environment Variables*.
 3. On Vercel the SQLite file lives in `/tmp` and is seeded on cold start. State is per instance and can reset; that is
    fine for a sandbox demo. **For the live final we run locally** (`npm run dev`) so nothing depends on the network.
-
-## Submission map
-
-| Required item | Where |
-|---|---|
-| 1. Technical documentation (architecture, core algorithm, security design) | [`docs/TECHNICAL.md`](docs/TECHNICAL.md) |
-| 2. Presentation (≤ 10 min) | [`docs/DECK_OUTLINE.md`](docs/DECK_OUTLINE.md) |
-| 3. Demo video (≤ 5 min) | [`docs/DEMO_SCRIPT.md`](docs/DEMO_SCRIPT.md) |
-| 4. Source code, README, GitHub link, deployment, test cases | this repo · `tests/` · `scripts/eval-lib.ts` |
-| 5. Security self-assessment (permission tiers, known risks) | [`docs/SECURITY_SELF_ASSESSMENT.md`](docs/SECURITY_SELF_ASSESSMENT.md) |
-| 6. Execution evidence: sandbox operation logs | [`evidence/`](evidence/) — `audit-log.jsonl`, `verify-output.txt`, `results.md` |
-
-GitHub: link given in the submission email.
 
 ## Project layout
 
